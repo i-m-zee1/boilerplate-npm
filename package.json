@@ -1,5 +1,10 @@
 {
+	"author": "Muhammad Zeeshan Ali",
+	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words","freecodecamp" ],
 	"name": "fcc-learn-npm-package-json",
+	"license": "GPL-3.0-only",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
